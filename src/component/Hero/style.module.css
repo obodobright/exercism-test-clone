@@ -1,0 +1,15 @@
+.heroContainer {
+    width: 100%;
+    min-height: 20vh;
+    height: 100%;
+}
+
+.heroWrapper {
+    width: 100%;
+    min-height: 20vh;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
